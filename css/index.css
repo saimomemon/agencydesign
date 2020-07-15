@@ -72,7 +72,7 @@ table {
 
 nav{
   display: block;
-  float: inline-end;
+  float: right;
   margin-top: 8px;
 }
 
@@ -89,7 +89,7 @@ nav a:hover {
 
 #btn_topright {
   display: block;
-  float: inline-end;
+  float: right;
   background-color: rgb(115, 255, 0);
   color: rgb(0, 0, 0);
   text-decoration: none;
@@ -128,6 +128,7 @@ nav a:hover {
   align-self: flex-end;
   font-size: 1.4em;
   writing-mode: sideways-lr;
+  -webkit-writing-mode: vertical-lr;
   letter-spacing: 4px;
   margin-bottom: 1em;
   opacity: .8;
