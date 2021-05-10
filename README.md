@@ -1,2 +1,2 @@
-# agencydesign
-Auric design agency 
+# Auric design agency
+ Agency design
